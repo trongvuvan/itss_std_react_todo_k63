@@ -29,5 +29,4 @@ function Input( { onAdd } ) {
     </div>
   );
 }
-
 export default Input;
